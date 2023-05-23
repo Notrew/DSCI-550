@@ -1,0 +1,1535 @@
+Country Name,Landslide Category,Landslide Trigger,Landslide Size,Event_num,Fatality Count,Injury Count
+Afghanistan,complex,rain,medium,1,6,
+Afghanistan,landslide,continuous_rain,very_large,1,"2,100",0
+Afghanistan,landslide,downpour,large,2,5,0
+Afghanistan,landslide,downpour,medium,1,,
+Afghanistan,landslide,flooding,large,1,114,
+Afghanistan,landslide,rain,medium,2,4,0
+Afghanistan,landslide,rain,small,1,0,0
+Afghanistan,landslide,snowfall_snowmelt,large,1,52,0
+Afghanistan,landslide,unknown,medium,1,0,0
+Afghanistan,mudslide,downpour,medium,1,5,
+Afghanistan,mudslide,rain,medium,2,1,0
+Afghanistan,other,rain,medium,1,7,1
+Albania,landslide,downpour,medium,1,0,
+Algeria,landslide,downpour,medium,1,6,
+American Samoa,landslide,downpour,medium,4,0,
+American Samoa,landslide,rain,medium,1,,
+Angola,landslide,downpour,medium,3,0,
+Argentina,landslide,rain,medium,1,,
+Argentina,mudslide,downpour,large,1,3,0
+Argentina,mudslide,downpour,medium,4,6,
+Argentina,rock_fall,unknown,medium,1,0,0
+Armenia,landslide,downpour,large,1,3,
+Armenia,landslide,downpour,medium,2,0,
+Armenia,rock_fall,unknown,small,1,0,0
+Australia,complex,downpour,medium,2,0,
+Australia,complex,downpour,small,3,0,
+Australia,complex,rain,small,1,,
+Australia,complex,unknown,medium,1,0,
+Australia,debris_flow,rain,medium,1,0,0
+Australia,landslide,continuous_rain,medium,1,0,0
+Australia,landslide,downpour,medium,31,1,0
+Australia,landslide,downpour,small,13,0,0
+Australia,landslide,flooding,large,1,0,0
+Australia,landslide,flooding,medium,1,0,0
+Australia,landslide,mining,large,1,,
+Australia,landslide,rain,large,1,0,
+Australia,landslide,rain,medium,11,1,0
+Australia,landslide,rain,small,9,0,0
+Australia,landslide,tropical_cyclone,medium,1,0,
+Australia,landslide,unknown,medium,4,0,0
+Australia,landslide,unknown,small,1,0,
+Australia,mudslide,downpour,medium,6,0,
+Australia,mudslide,downpour,small,6,0,0
+Australia,mudslide,rain,small,2,0,
+Australia,mudslide,unknown,medium,1,,
+Australia,other,downpour,small,1,,
+Australia,rock_fall,continuous_rain,medium,1,,
+Australia,rock_fall,downpour,medium,3,0,0
+Australia,rock_fall,downpour,small,1,0,
+Australia,rock_fall,unknown,small,1,0,0
+Austria,landslide,downpour,large,1,,
+Austria,landslide,downpour,medium,3,0,
+Austria,landslide,rain,medium,1,1,1
+Austria,landslide,rain,very_large,1,,
+Austria,landslide,snowfall_snowmelt,medium,1,,
+Austria,mudslide,downpour,medium,3,2,
+Azerbaijan,landslide,downpour,medium,14,4,
+Azerbaijan,landslide,rain,medium,1,0,0
+Azerbaijan,landslide,snowfall_snowmelt,large,1,0,0
+Azerbaijan,landslide,unknown,large,1,0,0
+Azerbaijan,landslide,unknown,medium,1,,
+Azerbaijan,landslide,unknown,small,2,0,0
+Azerbaijan,mudslide,downpour,medium,1,0,
+Bangladesh,landslide,construction,small,1,0,0
+Bangladesh,landslide,continuous_rain,medium,2,5,0
+Bangladesh,landslide,continuous_rain,small,2,0,0
+Bangladesh,landslide,downpour,large,6,160,
+Bangladesh,landslide,downpour,medium,12,61,0
+Bangladesh,landslide,downpour,small,1,3,0
+Bangladesh,landslide,flooding,medium,1,2,0
+Bangladesh,landslide,mining,medium,1,2,1
+Bangladesh,landslide,mining,small,1,1,0
+Bangladesh,landslide,monsoon,medium,3,14,6
+Bangladesh,landslide,monsoon,small,2,2,0
+Bangladesh,landslide,monsoon,very_large,1,128,150
+Bangladesh,landslide,rain,large,1,,
+Bangladesh,landslide,rain,medium,5,5,0
+Bangladesh,landslide,rain,small,2,3,3
+Bangladesh,landslide,tropical_cyclone,small,1,2,0
+Bangladesh,landslide,unknown,medium,3,2,1
+Bangladesh,landslide,unknown,small,1,1,0
+Bangladesh,mudslide,continuous_rain,small,1,7,3
+Bangladesh,mudslide,dam_embankment_collapse,small,1,2,0
+Bangladesh,mudslide,downpour,medium,3,10,1
+Bangladesh,mudslide,mining,medium,1,4,0
+Bangladesh,mudslide,rain,medium,2,5,
+Bangladesh,other,downpour,small,1,3,0
+Bangladesh,other,mining,small,1,2,0
+Bangladesh,rock_fall,mining,small,2,2,5
+Barbados,mudslide,downpour,medium,1,,
+Belize,rock_fall,mining,small,1,0,0
+Bermuda,landslide,downpour,medium,1,0,0
+Bermuda,landslide,rain,small,1,0,
+Bhutan,complex,downpour,medium,1,0,
+Bhutan,complex,rain,medium,1,12,
+Bhutan,complex,unknown,medium,1,0,
+Bhutan,landslide,downpour,large,1,,
+Bhutan,landslide,downpour,medium,12,5,
+Bhutan,landslide,rain,medium,2,2,
+Bhutan,mudslide,rain,medium,1,,
+Bhutan,mudslide,rain,small,1,0,
+Bolivia,landslide,downpour,large,4,25,0
+Bolivia,landslide,downpour,medium,1,0,
+Bolivia,landslide,unknown,medium,2,0,0
+Bolivia,mudslide,downpour,large,1,4,0
+Bolivia,mudslide,downpour,medium,1,7,
+Bolivia,mudslide,rain,medium,1,21,27
+Bolivia,mudslide,unknown,medium,1,0,
+Bosnia and Herzegovina,landslide,continuous_rain,medium,2,0,0
+Bosnia and Herzegovina,landslide,continuous_rain,small,1,0,0
+Bosnia and Herzegovina,landslide,rain,medium,6,1,0
+Bosnia and Herzegovina,mudslide,downpour,medium,1,3,
+Bosnia and Herzegovina,other,unknown,medium,1,1,3
+Bosnia and Herzegovina,unknown,mining,medium,1,0,0
+Brazil,complex,downpour,large,1,0,
+Brazil,complex,downpour,medium,1,4,
+Brazil,complex,downpour,very_large,1,63,
+Brazil,landslide,continuous_rain,medium,1,0,0
+Brazil,landslide,continuous_rain,small,2,1,1
+Brazil,landslide,continuous_rain,very_large,1,109,
+Brazil,landslide,downpour,large,3,62,
+Brazil,landslide,downpour,medium,126,61,4
+Brazil,landslide,downpour,small,7,0,
+Brazil,landslide,downpour,very_large,2,35,
+Brazil,landslide,other,medium,1,6,
+Brazil,landslide,rain,large,3,7,
+Brazil,landslide,rain,medium,7,47,
+Brazil,landslide,unknown,medium,1,2,
+Brazil,mudslide,continuous_rain,medium,1,0,0
+Brazil,mudslide,dam_embankment_collapse,very_large,1,17,50
+Brazil,mudslide,downpour,large,9,188,28
+Brazil,mudslide,downpour,medium,38,121,20
+Brazil,mudslide,downpour,very_large,4,998,
+Brazil,mudslide,rain,medium,2,22,
+Brazil,riverbank_collapse,downpour,small,1,0,
+Brazil,riverbank_collapse,unknown,medium,1,0,0
+Brunei,complex,downpour,medium,2,,
+Brunei,landslide,downpour,medium,7,2,
+Brunei,landslide,downpour,small,2,0,
+Brunei,landslide,rain,medium,1,,
+Brunei,landslide,rain,small,2,,
+Bulgaria,landslide,construction,medium,1,2,
+Bulgaria,landslide,continuous_rain,large,1,0,0
+Bulgaria,landslide,continuous_rain,small,1,0,0
+Bulgaria,landslide,downpour,medium,6,0,
+Bulgaria,landslide,downpour,small,1,0,0
+Bulgaria,landslide,mining,medium,1,4,
+Bulgaria,landslide,mining,small,1,0,0
+Bulgaria,landslide,rain,medium,6,0,0
+Bulgaria,landslide,snowfall_snowmelt,medium,4,0,0
+Bulgaria,landslide,snowfall_snowmelt,small,1,0,0
+Bulgaria,landslide,unknown,medium,3,0,0
+Bulgaria,landslide,unknown,small,2,0,0
+Bulgaria,mudslide,rain,small,1,0,0
+Bulgaria,rock_fall,no_apparent_trigger,small,1,2,1
+Bulgaria,rock_fall,rain,medium,2,0,0
+Bulgaria,rock_fall,snowfall_snowmelt,medium,1,0,0
+Bulgaria,rock_fall,unknown,small,2,0,0
+Burkina Faso,mudslide,rain,large,1,34,
+Burundi,landslide,unknown,medium,1,10,8
+Cambodia,rock_fall,rain,medium,1,3,0
+Cameroon,landslide,downpour,medium,2,0,
+Cameroon,landslide,rain,medium,1,0,
+Cameroon,landslide,unknown,medium,1,,
+Canada,complex,construction,small,1,0,1
+Canada,complex,downpour,medium,2,0,
+Canada,complex,rain,medium,2,,
+Canada,debris_flow,continuous_rain,medium,2,0,0
+Canada,debris_flow,dam_embankment_collapse,medium,1,0,0
+Canada,debris_flow,downpour,medium,4,0,0
+Canada,debris_flow,rain,medium,1,0,0
+Canada,debris_flow,rain,small,1,0,0
+Canada,landslide,construction,small,1,0,
+Canada,landslide,continuous_rain,medium,1,0,
+Canada,landslide,continuous_rain,small,1,0,0
+Canada,landslide,downpour,large,4,0,0
+Canada,landslide,downpour,medium,18,0,0
+Canada,landslide,downpour,small,5,0,1
+Canada,landslide,flooding,small,1,0,0
+Canada,landslide,freeze_thaw,medium,1,0,0
+Canada,landslide,other,medium,1,0,
+Canada,landslide,rain,large,1,,
+Canada,landslide,rain,medium,8,0,0
+Canada,landslide,rain,small,8,0,0
+Canada,landslide,snowfall_snowmelt,large,1,0,0
+Canada,landslide,tropical_cyclone,medium,1,0,
+Canada,landslide,tropical_cyclone,small,1,0,
+Canada,landslide,unknown,medium,7,0,0
+Canada,landslide,unknown,small,10,1,2
+Canada,mudslide,continuous_rain,small,1,0,0
+Canada,mudslide,downpour,large,1,0,0
+Canada,mudslide,downpour,medium,19,0,0
+Canada,mudslide,downpour,small,11,0,0
+Canada,mudslide,rain,large,1,0,
+Canada,mudslide,rain,medium,4,0,0
+Canada,mudslide,rain,small,17,0,0
+Canada,mudslide,snowfall_snowmelt,medium,1,0,
+Canada,mudslide,snowfall_snowmelt,small,1,1,
+Canada,mudslide,unknown,medium,3,0,0
+Canada,mudslide,unknown,small,4,0,0
+Canada,other,downpour,medium,1,4,
+Canada,other,snowfall_snowmelt,medium,1,0,0
+Canada,other,unknown,medium,2,0,2
+Canada,riverbank_collapse,rain,small,1,,
+Canada,rock_fall,construction,medium,1,0,2
+Canada,rock_fall,downpour,medium,3,0,
+Canada,rock_fall,freeze_thaw,medium,1,0,0
+Canada,rock_fall,freeze_thaw,small,2,0,0
+Canada,rock_fall,rain,large,1,0,0
+Canada,rock_fall,rain,medium,2,0,0
+Canada,rock_fall,rain,small,1,0,0
+Canada,rock_fall,unknown,medium,6,1,0
+Canada,rock_fall,unknown,small,2,0,0
+Canada,snow_avalanche,snowfall_snowmelt,very_large,1,0,0
+Canada,unknown,unknown,medium,1,0,2
+Canada,unknown,unknown,unknown,1,0,0
+Chile,landslide,downpour,large,2,,
+Chile,landslide,downpour,medium,5,5,
+Chile,landslide,earthquake,medium,1,0,0
+Chile,mudslide,continuous_rain,small,1,0,0
+Chile,mudslide,downpour,medium,4,6,0
+Chile,rock_fall,earthquake,medium,1,1,0
+China,complex,continuous_rain,medium,1,0,
+China,complex,dam_embankment_collapse,very_large,1,277,33
+China,complex,downpour,large,2,49,
+China,complex,downpour,medium,5,13,
+China,complex,rain,large,3,32,
+China,complex,rain,medium,2,41,
+China,complex,tropical_cyclone,medium,1,0,
+China,debris_flow,continuous_rain,medium,1,0,1
+China,debris_flow,downpour,large,1,,
+China,debris_flow,downpour,medium,3,13,0
+China,debris_flow,downpour,very_large,1,0,
+China,landslide,construction,medium,3,27,3
+China,landslide,continuous_rain,large,1,6,21
+China,landslide,continuous_rain,medium,10,66,9
+China,landslide,continuous_rain,small,3,7,0
+China,landslide,continuous_rain,very_large,1,,
+China,landslide,downpour,large,32,317,0
+China,landslide,downpour,medium,123,559,23
+China,landslide,downpour,small,3,0,
+China,landslide,downpour,unknown,1,0,0
+China,landslide,downpour,very_large,7,"1,824",
+China,landslide,earthquake,large,1,1,3
+China,landslide,earthquake,medium,4,67,0
+China,landslide,earthquake,small,1,16,0
+China,landslide,flooding,medium,1,6,
+China,landslide,freeze_thaw,medium,1,20,
+China,landslide,mining,medium,4,30,3
+China,landslide,mining,small,1,7,
+China,landslide,monsoon,medium,1,5,2
+China,landslide,no_apparent_trigger,large,1,0,3
+China,landslide,other,medium,1,1,1
+China,landslide,rain,large,10,122,22
+China,landslide,rain,medium,57,312,30
+China,landslide,rain,small,5,5,5
+China,landslide,rain,very_large,2,62,
+China,landslide,snowfall_snowmelt,medium,1,,
+China,landslide,snowfall_snowmelt,very_large,1,83,
+China,landslide,tropical_cyclone,large,7,131,0
+China,landslide,tropical_cyclone,medium,14,38,4
+China,landslide,unknown,large,1,69,16
+China,landslide,unknown,medium,21,88,82
+China,landslide,unknown,small,2,3,4
+China,mudslide,continuous_rain,medium,1,11,0
+China,mudslide,continuous_rain,small,1,0,0
+China,mudslide,downpour,large,12,117,1
+China,mudslide,downpour,medium,30,112,13
+China,mudslide,earthquake,large,1,200,
+China,mudslide,rain,medium,9,95,1
+China,mudslide,rain,small,3,0,0
+China,mudslide,rain,very_large,1,46,
+China,mudslide,snowfall_snowmelt,large,1,0,0
+China,mudslide,snowfall_snowmelt,medium,1,0,0
+China,mudslide,tropical_cyclone,large,2,4,0
+China,mudslide,tropical_cyclone,medium,8,16,6
+China,mudslide,unknown,medium,2,8,5
+China,other,unknown,large,1,0,0
+China,other,unknown,medium,1,0,0
+China,rock_fall,downpour,medium,1,0,0
+China,rock_fall,mining,medium,1,5,
+China,rock_fall,rain,medium,2,19,26
+China,rock_fall,tropical_cyclone,medium,1,2,0
+China,rock_fall,unknown,medium,2,10,0
+China,translational_slide,rain,medium,1,3,1
+China,translational_slide,unknown,medium,1,0,0
+China,unknown,downpour,medium,1,0,0
+Colombia,complex,downpour,large,1,27,
+Colombia,complex,downpour,medium,3,7,
+Colombia,landslide,construction,large,1,5,0
+Colombia,landslide,continuous_rain,small,1,2,7
+Colombia,landslide,downpour,large,13,99,16
+Colombia,landslide,downpour,medium,38,74,11
+Colombia,landslide,downpour,small,1,0,
+Colombia,landslide,downpour,very_large,2,139,
+Colombia,landslide,mining,medium,1,5,7
+Colombia,landslide,rain,large,2,,
+Colombia,landslide,rain,medium,7,14,0
+Colombia,landslide,rain,small,1,0,0
+Colombia,landslide,unknown,medium,3,8,1
+Colombia,mudslide,continuous_rain,large,4,29,2
+Colombia,mudslide,continuous_rain,medium,1,5,
+Colombia,mudslide,downpour,large,3,20,
+Colombia,mudslide,downpour,medium,12,34,
+Colombia,mudslide,downpour,very_large,1,7,
+Colombia,mudslide,rain,large,3,111,40
+Colombia,rock_fall,rain,medium,1,5,
+Colombia,rock_fall,rain,small,2,0,0
+Costa Rica,complex,downpour,medium,1,,
+Costa Rica,complex,rain,medium,1,4,
+Costa Rica,complex,tropical_cyclone,large,1,23,
+Costa Rica,landslide,continuous_rain,small,2,0,0
+Costa Rica,landslide,downpour,large,1,,
+Costa Rica,landslide,downpour,medium,19,1,3
+Costa Rica,landslide,downpour,small,2,0,0
+Costa Rica,landslide,earthquake,medium,1,1,
+Costa Rica,landslide,earthquake,small,1,0,0
+Costa Rica,landslide,mining,medium,1,,
+Costa Rica,landslide,rain,large,1,10,
+Costa Rica,landslide,rain,medium,8,2,0
+Costa Rica,landslide,rain,small,5,0,0
+Costa Rica,landslide,tropical_cyclone,medium,16,0,
+Costa Rica,landslide,unknown,medium,1,0,0
+Costa Rica,landslide,unknown,small,2,1,0
+Costa Rica,mudslide,downpour,medium,4,0,0
+Costa Rica,mudslide,rain,large,1,14,
+Costa Rica,mudslide,rain,small,1,0,0
+Costa Rica,mudslide,tropical_cyclone,medium,1,3,
+Costa Rica,mudslide,unknown,large,1,0,0
+Costa Rica,other,volcano,medium,1,0,0
+Costa Rica,rock_fall,downpour,medium,2,2,0
+Costa Rica,rock_fall,rain,small,1,0,0
+Costa Rica,unknown,rain,medium,1,0,0
+Croatia,rock_fall,downpour,medium,2,0,2
+Cuba,complex,tropical_cyclone,medium,1,0,
+Cuba,landslide,downpour,medium,1,0,
+Cuba,landslide,tropical_cyclone,medium,1,0,
+Czech Republic,landslide,rain,medium,1,0,0
+Czechia,landslide,construction,small,1,0,
+Czechia,landslide,downpour,medium,1,0,
+Democratic Republic of the Congo,landslide,mining,medium,1,2,0
+Democratic Republic of the Congo,mudslide,downpour,very_large,1,54,
+Democratic Republic of the Congo,mudslide,rain,medium,1,,
+Dominica,landslide,downpour,medium,5,0,
+Dominica,landslide,downpour,small,3,0,
+Dominica,landslide,rain,medium,4,0,0
+Dominica,landslide,unknown,medium,1,0,0
+Dominica,mudslide,downpour,large,1,0,
+Dominica,mudslide,tropical_cyclone,large,1,20,0
+Dominica,mudslide,tropical_cyclone,small,1,2,
+Dominican Republic,complex,tropical_cyclone,large,1,68,
+Dominican Republic,complex,tropical_cyclone,medium,1,,
+Dominican Republic,landslide,downpour,medium,3,4,
+Dominican Republic,landslide,downpour,small,1,,
+Dominican Republic,landslide,rain,medium,2,0,0
+Dominican Republic,landslide,tropical_cyclone,medium,2,17,0
+Dominican Republic,landslide,tropical_cyclone,small,2,3,0
+Dominican Republic,landslide,unknown,small,1,,
+Dominican Republic,mudslide,downpour,medium,2,0,
+Dominican Republic,mudslide,tropical_cyclone,medium,2,11,
+East Timor,landslide,continuous_rain,medium,1,0,
+East Timor,landslide,rain,medium,1,12,
+Ecuador,landslide,continuous_rain,medium,3,0,0
+Ecuador,landslide,continuous_rain,small,1,0,0
+Ecuador,landslide,downpour,large,1,20,
+Ecuador,landslide,downpour,medium,6,7,
+Ecuador,landslide,downpour,small,1,3,0
+Ecuador,landslide,rain,large,2,24,17
+Ecuador,landslide,rain,medium,4,7,1
+Ecuador,mudslide,downpour,medium,6,12,7
+Ecuador,mudslide,rain,medium,1,3,
+Ecuador,mudslide,unknown,medium,2,18,19
+Ecuador,riverbank_collapse,earthquake,medium,1,0,0
+Ecuador,rock_fall,earthquake,medium,1,2,8
+Ecuador,rock_fall,earthquake,small,2,0,0
+Ecuador,rock_fall,unknown,small,1,0,0
+Egypt,rock_fall,unknown,medium,1,31,46
+El Salvador,complex,tropical_cyclone,very_large,1,23,
+El Salvador,debris_flow,rain,medium,1,0,0
+El Salvador,landslide,continuous_rain,medium,4,0,0
+El Salvador,landslide,downpour,medium,1,0,1
+El Salvador,landslide,downpour,very_large,1,32,
+El Salvador,landslide,rain,medium,2,3,2
+El Salvador,landslide,rain,small,1,0,0
+El Salvador,landslide,tropical_cyclone,medium,2,0,
+El Salvador,landslide,unknown,medium,1,1,2
+El Salvador,mudslide,rain,medium,1,0,0
+El Salvador,mudslide,tropical_cyclone,medium,3,4,
+El Salvador,other,rain,small,2,0,1
+El Salvador,rock_fall,earthquake,small,1,0,0
+El Salvador,rock_fall,tropical_cyclone,medium,1,,
+Ethiopia,landslide,downpour,large,1,42,0
+Ethiopia,landslide,downpour,medium,1,19,
+Fiji,complex,downpour,medium,1,0,
+Fiji,debris_flow,downpour,small,1,0,
+Fiji,landslide,continuous_rain,small,1,0,0
+Fiji,landslide,downpour,large,2,0,
+Fiji,landslide,downpour,medium,13,4,0
+Fiji,landslide,downpour,small,3,0,0
+Fiji,landslide,rain,medium,6,0,0
+Fiji,landslide,rain,small,2,0,
+Fiji,landslide,tropical_cyclone,medium,2,,
+Fiji,landslide,unknown,small,1,0,0
+Fiji,landslide,unknown,unknown,1,0,0
+Fiji,mudslide,downpour,small,1,0,
+Fiji,mudslide,rain,medium,1,,
+France,complex,downpour,medium,1,0,0
+France,debris_flow,downpour,medium,1,0,
+France,debris_flow,unknown,large,1,,
+France,landslide,construction,medium,1,1,1
+France,landslide,continuous_rain,small,1,0,0
+France,landslide,downpour,medium,2,4,7
+France,landslide,downpour,small,2,0,0
+France,landslide,other,small,1,0,
+France,landslide,unknown,small,2,0,0
+France,mudslide,downpour,medium,4,1,0
+France,other,downpour,small,1,0,
+France,rock_fall,snowfall_snowmelt,medium,2,2,20
+France,rock_fall,unknown,large,1,2,0
+France,rock_fall,unknown,medium,1,0,0
+France,rock_fall,unknown,small,1,0,0
+Gabon,landslide,downpour,medium,1,3,
+Georgia,landslide,downpour,large,2,0,0
+Georgia,landslide,downpour,medium,19,17,0
+Georgia,landslide,downpour,small,1,0,0
+Georgia,landslide,mining,medium,1,1,0
+Georgia,landslide,rain,medium,2,10,10
+Georgia,landslide,rain,small,2,0,0
+Georgia,landslide,tropical_cyclone,medium,2,0,
+Georgia,landslide,unknown,medium,2,0,0
+Georgia,landslide,unknown,small,2,0,3
+Georgia,mudslide,downpour,large,2,3,0
+Georgia,mudslide,downpour,medium,2,4,0
+Georgia,mudslide,rain,medium,1,1,
+Georgia,other,rain,medium,1,8,0
+Germany,landslide,continuous_rain,medium,1,1,
+Germany,landslide,rain,medium,1,,
+Germany,rock_fall,downpour,medium,1,0,10
+Ghana,complex,downpour,medium,1,,
+Ghana,landslide,downpour,medium,4,3,
+Ghana,landslide,rain,medium,1,0,0
+Ghana,rock_fall,continuous_rain,medium,1,0,0
+Greece,landslide,downpour,medium,1,0,
+Greece,landslide,rain,medium,1,,
+Greece,rock_fall,earthquake,large,1,0,0
+Greece,rock_fall,rain,medium,2,1,2
+Grenada,landslide,downpour,small,2,0,
+Guam,landslide,downpour,small,1,0,0
+Guatemala,complex,rain,medium,1,8,
+Guatemala,debris_flow,rain,medium,1,0,0
+Guatemala,landslide,continuous_rain,medium,1,0,0
+Guatemala,landslide,downpour,large,2,278,374
+Guatemala,landslide,downpour,medium,16,27,0
+Guatemala,landslide,downpour,small,1,1,3
+Guatemala,landslide,earthquake,large,1,0,
+Guatemala,landslide,rain,large,1,15,
+Guatemala,landslide,rain,medium,25,10,7
+Guatemala,landslide,rain,small,3,6,0
+Guatemala,landslide,tropical_cyclone,large,1,17,
+Guatemala,landslide,tropical_cyclone,medium,9,30,0
+Guatemala,landslide,unknown,medium,1,0,0
+Guatemala,mudslide,downpour,medium,2,2,
+Guatemala,mudslide,downpour,small,1,6,7
+Guatemala,mudslide,rain,medium,4,290,2
+Guatemala,mudslide,tropical_cyclone,medium,9,45,
+Guatemala,mudslide,tropical_cyclone,small,1,0,0
+Guatemala,other,unknown,medium,2,8,15
+Guinea,landslide,construction,large,1,8,0
+Guinea,landslide,continuous_rain,large,1,7,12
+Guinea,landslide,continuous_rain,medium,1,7,12
+Guinea,landslide,downpour,medium,1,20,5
+Haiti,complex,downpour,medium,1,8,
+Haiti,complex,rain,large,1,23,
+Haiti,complex,tropical_cyclone,medium,1,,
+Haiti,landslide,continuous_rain,small,1,3,1
+Haiti,landslide,downpour,large,1,13,
+Haiti,landslide,downpour,medium,5,10,0
+Haiti,landslide,downpour,small,2,4,
+Haiti,landslide,tropical_cyclone,large,1,0,0
+Haiti,landslide,tropical_cyclone,medium,2,25,0
+Haiti,mudslide,downpour,medium,4,10,
+Haiti,mudslide,rain,medium,1,3,
+Haiti,mudslide,tropical_cyclone,medium,2,29,
+Honduras,landslide,continuous_rain,medium,3,1,0
+Honduras,landslide,downpour,medium,6,8,3
+Honduras,landslide,downpour,small,1,0,0
+Honduras,landslide,mining,small,1,8,3
+Honduras,landslide,rain,medium,7,7,0
+Honduras,landslide,rain,small,2,0,0
+Honduras,landslide,tropical_cyclone,large,1,23,
+Honduras,landslide,tropical_cyclone,medium,1,0,
+Honduras,landslide,unknown,medium,1,0,0
+Honduras,landslide,unknown,small,1,0,0
+Honduras,mudslide,downpour,medium,2,4,
+Honduras,mudslide,rain,medium,1,0,
+Honduras,mudslide,tropical_cyclone,large,1,29,
+Honduras,other,downpour,small,1,0,0
+Honduras,other,unknown,small,1,0,0
+Honduras,riverbank_collapse,flooding,small,1,0,0
+Honduras,rock_fall,continuous_rain,small,1,0,0
+Honduras,rock_fall,downpour,medium,2,10,0
+Honduras,rock_fall,rain,medium,2,0,0
+Honduras,rock_fall,rain,small,2,1,0
+Honduras,rock_fall,unknown,medium,1,0,0
+Hong Kong,landslide,downpour,medium,1,0,
+Hong Kong,landslide,rain,medium,1,2,
+Iceland,complex,rain,medium,1,0,
+Iceland,landslide,unknown,large,2,0,0
+Iceland,mudslide,rain,small,1,0,0
+India,complex,construction,medium,1,0,0
+India,complex,downpour,large,1,18,
+India,complex,downpour,medium,7,1,0
+India,complex,downpour,very_large,1,52,
+India,complex,monsoon,medium,1,,
+India,complex,rain,medium,1,,
+India,complex,unknown,medium,2,18,
+India,debris_flow,continuous_rain,medium,2,0,0
+India,debris_flow,downpour,medium,3,0,0
+India,debris_flow,downpour,small,1,0,
+India,debris_flow,downpour,very_large,1,"5,000",
+India,debris_flow,flooding,medium,1,0,0
+India,debris_flow,rain,medium,2,14,0
+India,debris_flow,tropical_cyclone,medium,1,5,0
+India,landslide,construction,medium,5,9,1
+India,landslide,construction,small,3,2,8
+India,landslide,continuous_rain,large,4,0,0
+India,landslide,continuous_rain,medium,115,99,44
+India,landslide,continuous_rain,small,39,33,18
+India,landslide,continuous_rain,unknown,3,4,0
+India,landslide,continuous_rain,very_large,1,3,
+India,landslide,downpour,large,38,432,3
+India,landslide,downpour,medium,537,417,37
+India,landslide,downpour,small,27,3,2
+India,landslide,downpour,unknown,1,0,0
+India,landslide,downpour,very_large,5,253,
+India,landslide,mining,medium,5,9,4
+India,landslide,mining,small,2,1,6
+India,landslide,monsoon,large,2,4,0
+India,landslide,monsoon,medium,22,13,3
+India,landslide,monsoon,small,3,2,0
+India,landslide,rain,large,9,56,
+India,landslide,rain,medium,178,170,22
+India,landslide,rain,small,29,13,1
+India,landslide,snowfall_snowmelt,large,1,0,0
+India,landslide,snowfall_snowmelt,medium,8,25,0
+India,landslide,tropical_cyclone,large,1,0,0
+India,landslide,tropical_cyclone,medium,6,33,0
+India,landslide,unknown,large,4,2,0
+India,landslide,unknown,medium,45,23,12
+India,landslide,unknown,small,9,7,0
+India,mudslide,construction,medium,1,1,3
+India,mudslide,construction,small,1,1,0
+India,mudslide,continuous_rain,large,1,151,0
+India,mudslide,continuous_rain,medium,9,1,0
+India,mudslide,continuous_rain,small,1,0,0
+India,mudslide,downpour,large,4,28,
+India,mudslide,downpour,medium,23,71,0
+India,mudslide,downpour,small,3,2,0
+India,mudslide,downpour,very_large,1,0,
+India,mudslide,mining,medium,1,5,
+India,mudslide,mining,small,1,2,0
+India,mudslide,monsoon,large,1,0,0
+India,mudslide,monsoon,medium,9,7,3
+India,mudslide,monsoon,small,1,0,
+India,mudslide,rain,medium,14,5,0
+India,mudslide,rain,small,1,,
+India,mudslide,snowfall_snowmelt,medium,1,1,0
+India,mudslide,unknown,medium,2,0,0
+India,mudslide,unknown,small,1,1,3
+India,other,downpour,medium,2,0,0
+India,other,rain,medium,1,2,1
+India,other,unknown,small,1,0,0
+India,rock_fall,continuous_rain,medium,5,1,1
+India,rock_fall,continuous_rain,small,1,0,0
+India,rock_fall,downpour,large,1,2,2
+India,rock_fall,downpour,medium,13,13,5
+India,rock_fall,downpour,small,6,5,4
+India,rock_fall,mining,small,1,3,1
+India,rock_fall,monsoon,large,1,0,0
+India,rock_fall,monsoon,medium,2,0,0
+India,rock_fall,monsoon,small,3,1,3
+India,rock_fall,other,small,1,0,
+India,rock_fall,rain,large,1,8,
+India,rock_fall,rain,medium,7,12,12
+India,rock_fall,rain,small,5,21,11
+India,rock_fall,unknown,medium,7,2,5
+India,rock_fall,unknown,small,3,2,2
+India,translational_slide,continuous_rain,large,1,0,0
+Indonesia,complex,downpour,large,1,3,
+Indonesia,complex,downpour,medium,6,20,
+Indonesia,complex,rain,medium,2,28,
+Indonesia,lahar,rain,medium,1,0,
+Indonesia,landslide,construction,medium,1,4,0
+Indonesia,landslide,continuous_rain,large,2,15,0
+Indonesia,landslide,continuous_rain,medium,11,25,43
+Indonesia,landslide,continuous_rain,small,2,3,0
+Indonesia,landslide,downpour,large,29,310,2
+Indonesia,landslide,downpour,medium,153,228,24
+Indonesia,landslide,downpour,small,4,13,6
+Indonesia,landslide,downpour,unknown,5,15,20
+Indonesia,landslide,downpour,very_large,1,44,
+Indonesia,landslide,earthquake,large,1,,
+Indonesia,landslide,earthquake,medium,2,5,
+Indonesia,landslide,flooding,medium,2,7,0
+Indonesia,landslide,mining,medium,3,16,0
+Indonesia,landslide,monsoon,medium,6,109,14
+Indonesia,landslide,monsoon,small,1,0,0
+Indonesia,landslide,no_apparent_trigger,medium,1,3,0
+Indonesia,landslide,rain,large,20,224,4
+Indonesia,landslide,rain,medium,66,234,8
+Indonesia,landslide,rain,small,3,11,3
+Indonesia,landslide,rain,very_large,2,29,6
+Indonesia,landslide,unknown,medium,11,39,12
+Indonesia,landslide,unknown,small,2,0,3
+Indonesia,mudslide,downpour,large,1,24,
+Indonesia,mudslide,downpour,medium,5,243,0
+Indonesia,mudslide,mining,medium,1,0,0
+Indonesia,mudslide,rain,medium,7,24,
+Indonesia,other,downpour,medium,1,2,2
+Indonesia,rock_fall,downpour,medium,1,1,2
+Indonesia,unknown,mining,medium,1,18,0
+Iran,complex,rain,large,1,,
+Iran,landslide,downpour,small,1,0,
+Iran,landslide,rain,medium,1,,
+Iran,landslide,unknown,medium,1,,
+Iran,mudslide,continuous_rain,medium,1,0,0
+Iran,rock_fall,downpour,medium,1,0,
+Ireland,complex,rain,medium,1,,
+Ireland,landslide,construction,medium,1,0,0
+Ireland,landslide,downpour,medium,7,2,0
+Ireland,landslide,downpour,small,2,0,
+Ireland,landslide,rain,medium,1,,
+Ireland,landslide,unknown,large,1,0,0
+Ireland,mudslide,downpour,medium,3,0,0
+Ireland,mudslide,downpour,small,2,0,0
+Ireland,mudslide,rain,medium,2,,
+Ireland,rock_fall,downpour,medium,1,0,
+Ireland,rock_fall,downpour,small,2,0,
+Isle of Man,landslide,downpour,medium,2,,
+Isle of Man,landslide,flooding,medium,1,0,0
+Isle of Man,rock_fall,rain,small,1,0,0
+Israel,landslide,rain,medium,1,0,
+Israel,mudslide,downpour,medium,1,2,
+Italy,landslide,continuous_rain,medium,2,0,2
+Italy,landslide,downpour,large,3,0,0
+Italy,landslide,downpour,medium,19,12,2
+Italy,landslide,downpour,small,1,0,
+Italy,landslide,downpour,very_large,1,0,
+Italy,landslide,earthquake,medium,1,,
+Italy,landslide,rain,medium,4,2,5
+Italy,mudslide,downpour,large,2,28,
+Italy,mudslide,downpour,medium,17,16,1
+Italy,rock_fall,downpour,small,1,0,0
+Italy,rock_fall,rain,small,1,1,1
+Italy,rock_fall,unknown,medium,2,0,0
+Italy,rock_fall,unknown,small,1,0,0
+Ivory Coast,landslide,continuous_rain,small,1,12,0
+Ivory Coast,landslide,downpour,medium,3,22,12
+Ivory Coast,landslide,mining,medium,2,5,0
+Ivory Coast,mudslide,downpour,large,1,16,
+Jamaica,complex,downpour,medium,1,0,
+Jamaica,complex,rain,medium,2,,
+Jamaica,complex,tropical_cyclone,medium,1,,
+Jamaica,landslide,continuous_rain,medium,2,0,0
+Jamaica,landslide,downpour,medium,13,0,
+Jamaica,landslide,rain,medium,5,0,0
+Jamaica,landslide,rain,small,1,0,0
+Jamaica,landslide,tropical_cyclone,medium,6,8,0
+Jamaica,landslide,unknown,medium,1,0,
+Jamaica,mudslide,downpour,small,1,0,0
+Jamaica,mudslide,rain,medium,2,,
+Jamaica,mudslide,rain,small,1,0,0
+Jamaica,mudslide,tropical_cyclone,medium,1,2,
+Japan,debris_flow,downpour,large,1,72,0
+Japan,debris_flow,downpour,medium,1,1,
+Japan,debris_flow,earthquake,large,1,0,0
+Japan,earth_flow,earthquake,medium,1,5,0
+Japan,landslide,continuous_rain,medium,2,2,
+Japan,landslide,continuous_rain,small,1,0,0
+Japan,landslide,downpour,large,3,20,0
+Japan,landslide,downpour,medium,17,22,2
+Japan,landslide,downpour,small,2,0,0
+Japan,landslide,earthquake,large,1,1,0
+Japan,landslide,earthquake,medium,1,0,0
+Japan,landslide,rain,medium,4,1,
+Japan,landslide,tropical_cyclone,medium,7,5,4
+Japan,landslide,tropical_cyclone,small,1,0,
+Japan,landslide,unknown,medium,2,3,
+Japan,landslide,unknown,small,1,0,0
+Japan,mudslide,construction,small,1,1,0
+Japan,mudslide,downpour,large,1,21,0
+Japan,mudslide,downpour,medium,17,7,3
+Japan,mudslide,downpour,small,1,1,0
+Japan,mudslide,earthquake,large,1,7,
+Japan,mudslide,rain,medium,1,1,
+Japan,mudslide,rain,small,1,6,0
+Japan,mudslide,tropical_cyclone,medium,4,2,1
+Japan,mudslide,tropical_cyclone,small,1,1,0
+Japan,mudslide,tropical_cyclone,very_large,1,39,
+Japan,mudslide,unknown,medium,1,5,
+Japan,other,earthquake,medium,2,0,0
+Japan,other,earthquake,small,2,0,0
+Japan,rock_fall,earthquake,medium,1,0,0
+Japan,rock_fall,earthquake,small,1,0,0
+Jersey,landslide,downpour,small,1,0,0
+Jordan,landslide,rain,large,1,13,
+Kazakhstan,debris_flow,dam_embankment_collapse,medium,1,0,6
+Kenya,complex,downpour,large,1,6,
+Kenya,landslide,continuous_rain,small,1,4,1
+Kenya,landslide,downpour,large,3,18,
+Kenya,landslide,downpour,medium,13,6,0
+Kenya,landslide,mining,medium,1,1,
+Kenya,landslide,rain,large,13,17,
+Kenya,landslide,rain,medium,7,13,0
+Kenya,landslide,unknown,large,1,,
+Kenya,landslide,unknown,small,2,0,0
+Kenya,mudslide,downpour,medium,7,30,
+Kenya,mudslide,downpour,small,1,5,0
+Kenya,mudslide,rain,medium,3,20,
+Kenya,unknown,mining,unknown,1,4,1
+Kyrgyzstan,complex,downpour,medium,2,0,
+Kyrgyzstan,landslide,downpour,medium,5,10,12
+Kyrgyzstan,landslide,unknown,medium,1,,
+Kyrgyzstan,mudslide,downpour,medium,23,5,1
+Kyrgyzstan,mudslide,rain,medium,1,0,0
+Laos,landslide,continuous_rain,very_large,1,16,
+Laos,landslide,downpour,medium,2,4,
+Laos,landslide,rain,medium,1,,
+Lebanon,complex,downpour,medium,1,0,
+Lebanon,landslide,downpour,medium,5,1,5
+Lebanon,landslide,snowfall_snowmelt,medium,1,,
+Lebanon,mudslide,downpour,medium,1,0,
+Lebanon,rock_fall,no_apparent_trigger,medium,1,0,0
+Liberia,landslide,unknown,medium,1,0,0
+Liberia,unknown,unknown,medium,1,0,0
+Luxembourg,landslide,rain,medium,1,0,0
+Luxembourg,rock_fall,downpour,medium,1,0,0
+Macedonia,debris_flow,rain,medium,1,0,0
+Macedonia,landslide,downpour,medium,2,0,4
+Macedonia,mudslide,downpour,medium,1,0,0
+Madagascar,complex,tropical_cyclone,large,1,8,
+Madagascar,landslide,downpour,medium,1,3,4
+Madagascar,landslide,rain,medium,1,8,0
+Madagascar,landslide,tropical_cyclone,medium,1,0,0
+Madagascar,mudslide,downpour,medium,1,5,
+Madagascar,mudslide,tropical_cyclone,very_large,1,73,
+Madagascar,other,unknown,medium,1,7,0
+Malawi,landslide,rain,medium,1,0,
+Malaysia,complex,downpour,large,1,16,1
+Malaysia,complex,downpour,medium,2,,
+Malaysia,complex,rain,medium,2,,
+Malaysia,debris_flow,continuous_rain,medium,1,0,0
+Malaysia,debris_flow,rain,medium,1,0,0
+Malaysia,landslide,construction,medium,1,0,0
+Malaysia,landslide,construction,small,1,0,
+Malaysia,landslide,continuous_rain,medium,11,0,0
+Malaysia,landslide,continuous_rain,small,3,0,0
+Malaysia,landslide,downpour,large,5,12,0
+Malaysia,landslide,downpour,medium,57,8,0
+Malaysia,landslide,downpour,small,11,3,0
+Malaysia,landslide,downpour,unknown,5,0,0
+Malaysia,landslide,flooding,medium,1,1,
+Malaysia,landslide,mining,small,1,3,0
+Malaysia,landslide,rain,large,1,,
+Malaysia,landslide,rain,medium,27,46,0
+Malaysia,landslide,rain,small,5,3,1
+Malaysia,landslide,unknown,medium,10,0,0
+Malaysia,mudslide,continuous_rain,large,1,0,0
+Malaysia,mudslide,continuous_rain,small,1,0,0
+Malaysia,mudslide,downpour,large,1,0,0
+Malaysia,mudslide,downpour,medium,8,3,4
+Malaysia,mudslide,downpour,small,1,0,0
+Malaysia,mudslide,other,medium,1,4,1
+Malaysia,mudslide,rain,medium,3,0,0
+Malaysia,mudslide,tropical_cyclone,medium,1,0,0
+Malaysia,mudslide,unknown,medium,1,0,0
+Malaysia,other,downpour,small,1,0,0
+Malaysia,other,unknown,medium,1,0,0
+Malaysia,riverbank_collapse,continuous_rain,small,1,0,0
+Malaysia,riverbank_collapse,unknown,medium,1,0,0
+Malaysia,rock_fall,rain,small,1,0,0
+Malaysia,rock_fall,unknown,small,1,0,0
+Malaysia,unknown,rain,large,1,0,0
+Mauritius,landslide,continuous_rain,small,1,0,0
+Mexico,complex,tropical_cyclone,medium,2,6,
+Mexico,landslide,construction,medium,1,0,0
+Mexico,landslide,continuous_rain,medium,1,,
+Mexico,landslide,downpour,large,3,25,1
+Mexico,landslide,downpour,medium,5,27,2
+Mexico,landslide,flooding,medium,1,0,0
+Mexico,landslide,rain,large,1,7,
+Mexico,landslide,rain,medium,12,32,0
+Mexico,landslide,rain,small,1,3,0
+Mexico,landslide,tropical_cyclone,medium,18,31,12
+Mexico,landslide,tropical_cyclone,small,2,0,0
+Mexico,landslide,tropical_cyclone,very_large,3,7,1
+Mexico,mudslide,construction,medium,1,2,
+Mexico,mudslide,downpour,large,1,11,
+Mexico,mudslide,downpour,medium,11,18,
+Mexico,mudslide,downpour,very_large,1,,
+Mexico,mudslide,rain,medium,2,3,0
+Mexico,mudslide,rain,very_large,1,5,
+Mexico,mudslide,tropical_cyclone,large,2,41,0
+Mexico,mudslide,tropical_cyclone,medium,13,104,8
+Mexico,other,construction,small,1,0,3
+Mexico,riverbank_collapse,flooding,medium,1,0,0
+Mexico,rock_fall,downpour,small,1,0,
+Mexico,unknown,tropical_cyclone,medium,1,0,0
+Mongolia,mudslide,unknown,large,1,2,0
+Montenegro,landslide,downpour,medium,1,0,0
+Morocco,landslide,construction,medium,1,5,3
+Myanmar [Burma],complex,downpour,large,1,20,
+Myanmar [Burma],landslide,construction,unknown,1,6,4
+Myanmar [Burma],landslide,continuous_rain,large,1,21,0
+Myanmar [Burma],landslide,downpour,large,6,85,
+Myanmar [Burma],landslide,downpour,medium,15,67,22
+Myanmar [Burma],landslide,mining,large,1,1,0
+Myanmar [Burma],landslide,mining,medium,6,42,2
+Myanmar [Burma],landslide,monsoon,large,1,17,0
+Myanmar [Burma],landslide,monsoon,medium,1,6,
+Myanmar [Burma],landslide,rain,large,1,70,100
+Myanmar [Burma],landslide,rain,medium,3,0,0
+Myanmar [Burma],landslide,tropical_cyclone,medium,1,0,
+Myanmar [Burma],landslide,unknown,large,1,104,100
+Myanmar [Burma],mudslide,downpour,medium,2,5,0
+Myanmar [Burma],mudslide,mining,large,1,50,0
+Myanmar [Burma],mudslide,tropical_cyclone,medium,1,,
+Myanmar [Burma],other,downpour,medium,1,4,0
+Namibia,mudslide,downpour,medium,1,0,
+Namibia,mudslide,downpour,small,1,0,
+Nepal,complex,downpour,large,1,72,
+Nepal,complex,downpour,medium,4,6,
+Nepal,complex,rain,medium,1,2,
+Nepal,landslide,construction,medium,1,3,3
+Nepal,landslide,continuous_rain,large,5,177,52
+Nepal,landslide,continuous_rain,medium,45,36,28
+Nepal,landslide,continuous_rain,small,6,14,0
+Nepal,landslide,downpour,large,22,166,10
+Nepal,landslide,downpour,medium,178,270,53
+Nepal,landslide,downpour,small,3,1,0
+Nepal,landslide,downpour,unknown,1,0,0
+Nepal,landslide,earthquake,large,1,60,0
+Nepal,landslide,earthquake,medium,5,29,10
+Nepal,landslide,earthquake,small,1,0,0
+Nepal,landslide,flooding,medium,2,5,0
+Nepal,landslide,mining,medium,1,,
+Nepal,landslide,monsoon,large,2,27,
+Nepal,landslide,monsoon,medium,22,58,31
+Nepal,landslide,monsoon,small,2,0,0
+Nepal,landslide,rain,large,4,9,2
+Nepal,landslide,rain,medium,80,134,30
+Nepal,landslide,rain,small,8,9,5
+Nepal,landslide,snowfall_snowmelt,medium,1,,
+Nepal,landslide,tropical_cyclone,medium,1,1,
+Nepal,landslide,unknown,large,3,0,0
+Nepal,landslide,unknown,medium,38,33,9
+Nepal,landslide,unknown,small,5,1,2
+Nepal,landslide,unknown,very_large,1,0,
+Nepal,mudslide,continuous_rain,medium,2,2,2
+Nepal,mudslide,downpour,large,1,9,
+Nepal,mudslide,downpour,medium,9,32,0
+Nepal,mudslide,downpour,small,1,0,0
+Nepal,mudslide,mining,medium,4,8,2
+Nepal,mudslide,rain,medium,3,1,2
+Nepal,mudslide,snowfall_snowmelt,large,1,250,0
+Nepal,mudslide,unknown,medium,1,2,2
+Nepal,riverbank_collapse,downpour,small,1,3,0
+Nepal,riverbank_collapse,unknown,medium,1,0,4
+Nepal,rock_fall,continuous_rain,medium,1,,
+Nepal,rock_fall,earthquake,small,2,6,10
+Nepal,rock_fall,monsoon,small,1,2,0
+Nepal,rock_fall,rain,medium,1,4,
+Nepal,rock_fall,unknown,medium,3,0,0
+Nepal,rock_fall,unknown,small,1,1,0
+Nepal,snow_avalanche,unknown,medium,1,0,0
+Nepal,unknown,monsoon,unknown,1,40,20
+Nepal,unknown,unknown,medium,2,0,0
+New Zealand,complex,downpour,medium,2,0,
+New Zealand,complex,no_apparent_trigger,large,1,0,0
+New Zealand,complex,rain,medium,1,,
+New Zealand,complex,tropical_cyclone,medium,1,0,
+New Zealand,debris_flow,downpour,medium,2,0,0
+New Zealand,landslide,continuous_rain,medium,1,,
+New Zealand,landslide,downpour,large,2,0,0
+New Zealand,landslide,downpour,medium,39,6,0
+New Zealand,landslide,downpour,small,9,0,0
+New Zealand,landslide,earthquake,medium,8,0,
+New Zealand,landslide,freeze_thaw,very_large,1,,
+New Zealand,landslide,rain,large,1,,
+New Zealand,landslide,rain,medium,5,0,0
+New Zealand,landslide,rain,small,3,0,0
+New Zealand,landslide,tropical_cyclone,medium,5,0,
+New Zealand,landslide,unknown,large,2,0,0
+New Zealand,landslide,unknown,medium,4,0,0
+New Zealand,landslide,unknown,small,3,0,0
+New Zealand,mudslide,downpour,medium,4,1,
+New Zealand,mudslide,downpour,small,1,0,
+New Zealand,mudslide,earthquake,medium,1,0,
+New Zealand,mudslide,rain,small,1,0,0
+New Zealand,rock_fall,continuous_rain,medium,1,0,
+New Zealand,rock_fall,downpour,medium,2,0,0
+New Zealand,rock_fall,earthquake,medium,1,0,0
+New Zealand,rock_fall,earthquake,small,2,0,0
+New Zealand,rock_fall,unknown,medium,1,,
+New Zealand,rock_fall,unknown,small,1,0,
+New Zealand,snow_avalanche,downpour,medium,1,0,
+Nicaragua,complex,tropical_cyclone,medium,1,,
+Nicaragua,debris_flow,rain,large,1,0,0
+Nicaragua,landslide,continuous_rain,medium,12,0,0
+Nicaragua,landslide,continuous_rain,small,2,0,0
+Nicaragua,landslide,downpour,medium,4,16,0
+Nicaragua,landslide,rain,large,1,0,0
+Nicaragua,landslide,rain,medium,5,0,0
+Nicaragua,landslide,rain,small,2,0,38
+Nicaragua,landslide,unknown,medium,1,1,0
+Nicaragua,mudslide,downpour,medium,1,3,
+Nicaragua,mudslide,downpour,small,1,9,0
+Nigeria,landslide,downpour,large,1,0,
+Nigeria,landslide,downpour,medium,1,0,
+Nigeria,landslide,downpour,small,1,0,0
+Nigeria,landslide,mining,medium,1,2,0
+Nigeria,landslide,rain,medium,3,0,
+Nigeria,landslide,unknown,medium,2,4,
+Nigeria,mudslide,construction,medium,1,2,0
+Nigeria,mudslide,downpour,medium,3,13,4
+Nigeria,mudslide,unknown,medium,2,4,1
+North Korea,landslide,downpour,medium,2,0,
+North Korea,landslide,rain,medium,1,,
+North Korea,landslide,tropical_cyclone,medium,1,0,
+North Korea,unknown,downpour,unknown,3,10,55
+Norway,complex,rain,medium,1,1,
+Norway,complex,snowfall_snowmelt,medium,1,0,
+Norway,complex,unknown,medium,1,0,1
+Norway,landslide,downpour,medium,3,0,
+Norway,landslide,rain,medium,3,0,
+Norway,landslide,unknown,medium,1,,
+Norway,mudslide,continuous_rain,small,1,0,
+Norway,mudslide,downpour,medium,4,0,
+Norway,mudslide,rain,medium,2,21,
+Norway,other,unknown,medium,1,0,0
+Norway,rock_fall,unknown,large,1,0,0
+Norway,rock_fall,unknown,medium,3,0,0
+Oman,landslide,rain,medium,1,,
+Pakistan,complex,downpour,medium,2,10,
+Pakistan,complex,mining,small,1,1,1
+Pakistan,debris_flow,rain,medium,1,0,
+Pakistan,landslide,continuous_rain,large,2,106,0
+Pakistan,landslide,continuous_rain,medium,5,1,0
+Pakistan,landslide,continuous_rain,small,1,2,0
+Pakistan,landslide,downpour,large,8,194,0
+Pakistan,landslide,downpour,medium,49,78,7
+Pakistan,landslide,earthquake,medium,7,2,5
+Pakistan,landslide,earthquake,small,1,1,1
+Pakistan,landslide,mining,medium,1,1,2
+Pakistan,landslide,monsoon,large,1,7,
+Pakistan,landslide,monsoon,medium,4,2,2
+Pakistan,landslide,monsoon,small,1,0,0
+Pakistan,landslide,monsoon,very_large,1,,
+Pakistan,landslide,rain,large,5,41,
+Pakistan,landslide,rain,medium,24,129,3
+Pakistan,landslide,rain,small,2,10,0
+Pakistan,landslide,snowfall_snowmelt,medium,3,0,0
+Pakistan,landslide,snowfall_snowmelt,small,1,1,1
+Pakistan,landslide,unknown,large,3,27,12
+Pakistan,landslide,unknown,medium,3,3,0
+Pakistan,mudslide,downpour,medium,4,0,
+Pakistan,mudslide,mining,small,1,4,5
+Pakistan,mudslide,unknown,medium,1,2,0
+Pakistan,other,rain,small,1,2,4
+Pakistan,other,unknown,medium,1,3,1
+Pakistan,rock_fall,earthquake,large,1,0,0
+Pakistan,rock_fall,earthquake,small,1,4,0
+Pakistan,rock_fall,earthquake,unknown,1,4,1
+Pakistan,rock_fall,rain,medium,1,3,3
+Pakistan,rock_fall,unknown,medium,2,23,2
+Pakistan,unknown,downpour,medium,1,0,0
+Pakistan,unknown,snowfall_snowmelt,medium,1,1,20
+Panama,complex,downpour,medium,1,8,
+Panama,landslide,continuous_rain,medium,1,0,0
+Panama,landslide,downpour,large,2,0,45
+Panama,landslide,downpour,medium,16,0,0
+Panama,landslide,downpour,small,4,0,0
+Panama,landslide,flooding,medium,1,0,0
+Panama,landslide,rain,medium,5,2,0
+Panama,landslide,rain,small,3,0,0
+Panama,landslide,unknown,small,1,0,0
+Panama,mudslide,downpour,medium,2,12,
+Panama,mudslide,rain,medium,1,0,0
+Panama,mudslide,rain,small,2,0,0
+Panama,mudslide,unknown,medium,1,0,0
+Panama,other,construction,medium,1,1,0
+Panama,other,downpour,small,1,0,0
+Panama,other,rain,small,1,0,0
+Panama,rock_fall,downpour,small,1,0,0
+Papua New Guinea,debris_flow,rain,large,1,,
+Papua New Guinea,landslide,continuous_rain,medium,1,0,0
+Papua New Guinea,landslide,downpour,large,1,4,
+Papua New Guinea,landslide,downpour,medium,4,27,0
+Papua New Guinea,landslide,rain,large,1,,
+Papua New Guinea,landslide,rain,medium,5,6,0
+Papua New Guinea,landslide,unknown,medium,1,0,0
+Papua New Guinea,mudslide,continuous_rain,large,1,25,
+Papua New Guinea,mudslide,downpour,large,1,9,3
+Papua New Guinea,mudslide,downpour,medium,3,1,0
+Papua New Guinea,riverbank_collapse,unknown,medium,1,0,2
+Papua New Guinea,rock_fall,unknown,small,1,0,0
+Paraguay,landslide,mining,small,1,,
+Peru,complex,downpour,medium,1,0,
+Peru,complex,rain,medium,1,,
+Peru,debris_flow,downpour,medium,1,8,25
+Peru,debris_flow,snowfall_snowmelt,medium,1,0,0
+Peru,lahar,downpour,large,1,12,
+Peru,landslide,downpour,large,6,64,225
+Peru,landslide,downpour,medium,14,15,0
+Peru,landslide,rain,medium,2,7,
+Peru,mudslide,downpour,large,2,10,25
+Peru,mudslide,downpour,medium,21,47,0
+Peru,mudslide,rain,medium,3,0,0
+Peru,mudslide,unknown,medium,1,0,0
+Peru,rock_fall,earthquake,small,1,0,
+Peru,rock_fall,rain,medium,1,4,0
+Peru,rock_fall,unknown,small,2,0,2
+Philippines,complex,construction,medium,1,1,
+Philippines,complex,construction,small,1,1,0
+Philippines,complex,continuous_rain,medium,1,,
+Philippines,complex,downpour,medium,5,7,
+Philippines,complex,rain,large,2,9,
+Philippines,complex,rain,medium,1,,
+Philippines,complex,tropical_cyclone,large,2,85,
+Philippines,complex,tropical_cyclone,medium,7,30,
+Philippines,debris_flow,rain,medium,2,0,0
+Philippines,debris_flow,tropical_cyclone,large,1,0,0
+Philippines,debris_flow,tropical_cyclone,medium,2,3,0
+Philippines,debris_flow,tropical_cyclone,small,1,0,0
+Philippines,lahar,rain,medium,1,,
+Philippines,lahar,rain,small,1,0,
+Philippines,landslide,construction,medium,2,,
+Philippines,landslide,construction,small,1,3,0
+Philippines,landslide,continuous_rain,medium,26,26,16
+Philippines,landslide,continuous_rain,small,5,1,4
+Philippines,landslide,downpour,large,13,62,
+Philippines,landslide,downpour,medium,201,123,18
+Philippines,landslide,downpour,small,16,0,1
+Philippines,landslide,downpour,unknown,2,0,0
+Philippines,landslide,downpour,very_large,2,41,16
+Philippines,landslide,earthquake,very_large,1,5,
+Philippines,landslide,flooding,small,1,0,0
+Philippines,landslide,flooding,unknown,1,0,0
+Philippines,landslide,mining,medium,4,22,3
+Philippines,landslide,monsoon,medium,4,5,2
+Philippines,landslide,monsoon,small,2,1,0
+Philippines,landslide,monsoon,unknown,1,0,0
+Philippines,landslide,rain,large,4,6,
+Philippines,landslide,rain,medium,78,121,2
+Philippines,landslide,rain,small,9,8,4
+Philippines,landslide,rain,very_large,1,5,
+Philippines,landslide,tropical_cyclone,large,15,277,9
+Philippines,landslide,tropical_cyclone,medium,186,365,28
+Philippines,landslide,tropical_cyclone,small,12,1,4
+Philippines,landslide,tropical_cyclone,very_large,2,0,
+Philippines,landslide,unknown,large,1,16,0
+Philippines,landslide,unknown,medium,6,9,1
+Philippines,landslide,unknown,small,1,2,0
+Philippines,landslide,unknown,unknown,2,2,0
+Philippines,mudslide,downpour,medium,11,15,5
+Philippines,mudslide,downpour,small,1,0,11
+Philippines,mudslide,monsoon,large,1,84,0
+Philippines,mudslide,rain,large,1,26,
+Philippines,mudslide,rain,medium,1,1,3
+Philippines,mudslide,tropical_cyclone,large,1,10,
+Philippines,mudslide,tropical_cyclone,medium,6,38,0
+Philippines,mudslide,tropical_cyclone,small,1,0,
+Philippines,mudslide,tropical_cyclone,very_large,1,430,
+Philippines,mudslide,unknown,medium,1,1,0
+Philippines,other,downpour,medium,1,0,0
+Philippines,other,monsoon,medium,1,0,0
+Philippines,riverbank_collapse,tropical_cyclone,medium,1,0,0
+Philippines,riverbank_collapse,unknown,small,1,2,0
+Philippines,rock_fall,downpour,medium,7,1,0
+Philippines,rock_fall,monsoon,medium,1,0,0
+Philippines,rock_fall,rain,medium,1,0,0
+Philippines,rock_fall,rain,small,1,0,2
+Philippines,rock_fall,tropical_cyclone,medium,6,2,9
+Philippines,rock_fall,tropical_cyclone,small,1,0,0
+Philippines,rock_fall,unknown,small,1,0,0
+Philippines,translational_slide,downpour,medium,1,0,0
+Poland,landslide,downpour,medium,2,0,
+Portugal,landslide,rain,large,1,,
+Portugal,landslide,rain,medium,2,2,
+Portugal,landslide,unknown,medium,1,0,0
+Portugal,mudslide,downpour,very_large,1,42,
+Portugal,mudslide,tropical_cyclone,medium,1,2,
+Puerto Rico,complex,tropical_cyclone,medium,1,0,
+Puerto Rico,landslide,downpour,medium,2,0,0
+Puerto Rico,landslide,downpour,small,1,0,0
+Puerto Rico,landslide,tropical_cyclone,medium,1,,
+Puerto Rico,landslide,unknown,medium,1,0,0
+Puerto Rico,other,rain,small,1,0,0
+Republic of the Congo,landslide,downpour,medium,1,,
+Romania,landslide,rain,medium,3,0,
+Russia,landslide,downpour,medium,3,6,
+Russia,landslide,rain,medium,2,0,
+Russia,landslide,unknown,large,1,0,0
+Russia,landslide,unknown,medium,1,0,0
+Russia,mudslide,continuous_rain,large,1,0,0
+Russia,mudslide,downpour,medium,2,1,0
+Russia,mudslide,rain,medium,1,0,0
+Russia,mudslide,rain,small,2,0,0
+Rwanda,landslide,downpour,large,1,0,0
+Rwanda,landslide,downpour,medium,3,60,0
+Rwanda,landslide,rain,medium,1,,
+Rwanda,mudslide,downpour,large,1,14,
+Saint Kitts and Nevis,rock_fall,rain,small,1,0,0
+Saint Kitts and Nevis,unknown,rain,unknown,1,0,0
+Saint Lucia,landslide,downpour,large,1,,
+Saint Lucia,landslide,downpour,medium,1,,
+Saint Lucia,landslide,tropical_cyclone,medium,6,4,
+Saint Vincent and the Grenadines,landslide,downpour,medium,2,0,
+Saint Vincent and the Grenadines,landslide,downpour,very_large,1,5,
+Saint Vincent and the Grenadines,landslide,tropical_cyclone,medium,2,0,0
+Saudi Arabia,debris_flow,downpour,large,1,1,32
+Saudi Arabia,landslide,unknown,medium,1,0,2
+Saudi Arabia,unknown,downpour,medium,3,0,0
+Serbia,landslide,downpour,medium,2,0,0
+Serbia,landslide,rain,medium,1,0,0
+Serbia,landslide,rain,small,1,0,0
+Serbia,other,unknown,medium,1,0,0
+Sierra Leone,complex,downpour,medium,1,2,
+Sierra Leone,landslide,continuous_rain,medium,1,10,
+Sierra Leone,landslide,downpour,medium,2,7,
+Sierra Leone,mudslide,downpour,large,1,16,
+Sierra Leone,mudslide,downpour,medium,1,,
+Sierra Leone,mudslide,rain,small,1,5,0
+Singapore,mudslide,unknown,small,1,,
+Slovakia,landslide,downpour,medium,2,0,
+Slovenia,mudslide,rain,medium,1,,
+Solomon Islands,complex,downpour,medium,1,0,
+Solomon Islands,landslide,continuous_rain,medium,1,0,0
+Solomon Islands,landslide,downpour,medium,2,0,0
+Solomon Islands,landslide,rain,medium,1,,
+South Africa,complex,rain,medium,1,1,
+South Africa,landslide,continuous_rain,small,1,0,0
+South Africa,landslide,downpour,medium,1,,
+South Africa,landslide,downpour,small,1,1,0
+South Africa,landslide,rain,medium,1,0,
+South Africa,landslide,rain,small,2,0,0
+South Africa,mudslide,downpour,medium,5,1,0
+South Africa,mudslide,downpour,small,2,0,0
+South Africa,mudslide,other,medium,1,0,
+South Africa,mudslide,rain,medium,3,5,
+South Africa,mudslide,rain,small,1,0,
+South Africa,rock_fall,downpour,small,1,0,
+South Africa,rock_fall,rain,small,1,0,
+South Korea,debris_flow,rain,large,1,0,
+South Korea,landslide,downpour,medium,5,9,
+South Korea,landslide,monsoon,medium,1,1,3
+South Korea,mudslide,downpour,large,2,77,
+South Korea,mudslide,downpour,medium,1,3,
+South Korea,rock_fall,downpour,medium,1,0,0
+Spain,complex,downpour,medium,1,,
+Spain,landslide,downpour,medium,3,0,6
+Spain,landslide,downpour,small,1,0,
+Spain,landslide,rain,medium,3,,
+Spain,landslide,rain,small,1,0,0
+Spain,mudslide,downpour,medium,2,2,
+Spain,mudslide,rain,small,1,16,
+Spain,mudslide,unknown,medium,1,1,0
+Spain,rock_fall,downpour,medium,1,0,0
+Sri Lanka,complex,downpour,medium,1,4,
+Sri Lanka,debris_flow,monsoon,medium,1,0,
+Sri Lanka,debris_flow,tropical_cyclone,medium,1,0,
+Sri Lanka,landslide,construction,medium,1,0,0
+Sri Lanka,landslide,continuous_rain,large,1,13,0
+Sri Lanka,landslide,continuous_rain,medium,5,0,
+Sri Lanka,landslide,downpour,medium,35,36,1
+Sri Lanka,landslide,downpour,small,3,0,0
+Sri Lanka,landslide,monsoon,medium,5,3,
+Sri Lanka,landslide,rain,large,2,2,0
+Sri Lanka,landslide,rain,medium,10,18,1
+Sri Lanka,landslide,tropical_cyclone,medium,3,6,
+Sri Lanka,mudslide,downpour,medium,2,7,0
+Sri Lanka,mudslide,monsoon,large,1,37,0
+Sri Lanka,mudslide,monsoon,very_large,1,101,0
+Sri Lanka,other,downpour,medium,1,2,0
+Sri Lanka,rock_fall,downpour,medium,1,0,
+Sri Lanka,rock_fall,rain,small,1,1,2
+Sudan,landslide,mining,medium,1,6,5
+Swaziland,landslide,downpour,medium,1,1,
+Switzerland,debris_flow,downpour,large,1,0,0
+Switzerland,debris_flow,downpour,small,1,0,11
+Switzerland,debris_flow,rain,large,1,0,0
+Switzerland,debris_flow,rain,medium,1,0,
+Switzerland,landslide,continuous_rain,small,1,0,0
+Switzerland,landslide,downpour,medium,1,2,5
+Switzerland,landslide,downpour,small,1,0,0
+Switzerland,landslide,rain,medium,3,2,0
+Switzerland,landslide,rain,small,1,0,0
+Switzerland,landslide,rain,very_large,1,,
+Switzerland,mudslide,continuous_rain,small,1,0,0
+Switzerland,mudslide,downpour,medium,1,,
+Switzerland,mudslide,downpour,small,3,1,0
+Switzerland,other,unknown,medium,1,0,0
+Switzerland,rock_fall,unknown,medium,1,0,0
+Taiwan,complex,rain,medium,1,2,
+Taiwan,complex,tropical_cyclone,medium,2,0,
+Taiwan,complex,tropical_cyclone,very_large,1,491,
+Taiwan,debris_flow,tropical_cyclone,medium,2,0,0
+Taiwan,landslide,continuous_rain,medium,2,0,0
+Taiwan,landslide,continuous_rain,small,1,0,0
+Taiwan,landslide,downpour,large,4,8,
+Taiwan,landslide,downpour,medium,11,2,0
+Taiwan,landslide,earthquake,medium,1,0,0
+Taiwan,landslide,earthquake,small,1,0,0
+Taiwan,landslide,freeze_thaw,medium,1,0,
+Taiwan,landslide,rain,medium,2,,
+Taiwan,landslide,tropical_cyclone,large,1,3,0
+Taiwan,landslide,tropical_cyclone,medium,13,18,0
+Taiwan,mudslide,construction,medium,1,1,
+Taiwan,mudslide,downpour,large,1,,
+Taiwan,mudslide,downpour,medium,4,0,0
+Taiwan,mudslide,tropical_cyclone,large,4,0,
+Taiwan,mudslide,tropical_cyclone,medium,7,15,0
+Taiwan,other,unknown,medium,1,0,0
+Taiwan,rock_fall,earthquake,unknown,2,0,0
+Taiwan,rock_fall,tropical_cyclone,medium,5,0,19
+Tajikistan,complex,downpour,large,1,21,
+Tajikistan,landslide,continuous_rain,large,1,14,0
+Tajikistan,landslide,downpour,large,1,,
+Tajikistan,landslide,downpour,medium,4,2,
+Tajikistan,landslide,downpour,small,1,8,
+Tajikistan,landslide,earthquake,medium,1,0,0
+Tajikistan,landslide,rain,medium,1,20,
+Tajikistan,mudslide,downpour,large,2,24,0
+Tajikistan,mudslide,downpour,medium,3,3,
+Tajikistan,mudslide,downpour,small,1,2,0
+Tajikistan,mudslide,rain,medium,1,0,0
+Tajikistan,mudslide,snowfall_snowmelt,medium,1,0,0
+Tajikistan,mudslide,unknown,medium,2,10,0
+Tanzania,landslide,downpour,large,1,20,
+Tanzania,landslide,downpour,medium,2,7,
+Tanzania,landslide,mining,medium,1,1,5
+Tanzania,landslide,rain,medium,1,,
+Thailand,complex,downpour,medium,1,0,
+Thailand,complex,rain,medium,3,1,
+Thailand,debris_flow,downpour,medium,1,,
+Thailand,landslide,continuous_rain,medium,1,0,
+Thailand,landslide,continuous_rain,small,2,0,0
+Thailand,landslide,downpour,large,3,2,
+Thailand,landslide,downpour,medium,17,16,7
+Thailand,landslide,downpour,small,8,4,3
+Thailand,landslide,monsoon,medium,1,1,
+Thailand,landslide,monsoon,small,2,0,0
+Thailand,landslide,rain,medium,6,15,0
+Thailand,landslide,rain,small,3,0,0
+Thailand,landslide,tropical_cyclone,medium,1,,
+Thailand,landslide,tropical_cyclone,small,2,0,0
+Thailand,landslide,unknown,medium,1,0,0
+Thailand,mudslide,continuous_rain,small,1,0,0
+Thailand,mudslide,dam_embankment_collapse,large,1,12,
+Thailand,mudslide,downpour,medium,14,22,
+Thailand,mudslide,downpour,small,1,0,
+Thailand,mudslide,monsoon,medium,3,0,0
+Thailand,mudslide,monsoon,small,1,2,0
+Thailand,mudslide,rain,medium,2,,
+Thailand,other,downpour,small,1,0,0
+Thailand,rock_fall,continuous_rain,medium,1,0,0
+Trinidad and Tobago,complex,downpour,medium,2,1,
+Trinidad and Tobago,landslide,downpour,large,2,0,
+Trinidad and Tobago,landslide,downpour,medium,22,1,
+Trinidad and Tobago,landslide,downpour,small,8,0,
+Trinidad and Tobago,landslide,rain,large,1,,
+Trinidad and Tobago,landslide,rain,medium,4,,
+Trinidad and Tobago,landslide,tropical_cyclone,medium,9,3,
+Trinidad and Tobago,landslide,tropical_cyclone,small,1,,
+Trinidad and Tobago,landslide,unknown,small,1,0,0
+Trinidad and Tobago,mudslide,downpour,medium,6,1,0
+Trinidad and Tobago,mudslide,downpour,small,7,0,
+Trinidad and Tobago,mudslide,rain,medium,1,0,
+Trinidad and Tobago,rock_fall,unknown,small,1,0,0
+Turkey,landslide,downpour,medium,8,33,12
+Turkey,landslide,rain,large,1,7,
+Turkey,landslide,rain,medium,6,7,11
+Turkey,landslide,unknown,small,1,0,0
+Turkey,mudslide,downpour,medium,1,,
+Turkey,mudslide,downpour,small,1,1,0
+Turkey,mudslide,rain,medium,1,1,10
+Turkey,other,downpour,medium,1,0,0
+Turkey,unknown,unknown,medium,1,1,0
+U.S. Virgin Islands,landslide,tropical_cyclone,medium,1,0,
+U.S. Virgin Islands,mudslide,rain,medium,1,,
+Uganda,complex,downpour,medium,2,2,
+Uganda,complex,downpour,very_large,1,388,
+Uganda,landslide,downpour,large,3,56,50
+Uganda,landslide,downpour,medium,28,34,20
+Uganda,landslide,downpour,very_large,2,35,
+Uganda,landslide,rain,medium,2,,
+Uganda,landslide,rain,small,1,,
+Uganda,landslide,unknown,large,1,4,0
+Uganda,mudslide,downpour,medium,5,15,
+Ukraine,landslide,downpour,medium,1,2,
+Ukraine,mudslide,downpour,large,1,0,0
+Ukraine,mudslide,downpour,medium,1,0,0
+United Arab Emirates,landslide,rain,medium,1,,
+United Kingdom,complex,downpour,medium,1,0,
+United Kingdom,complex,rain,small,2,0,
+United Kingdom,complex,unknown,medium,1,,
+United Kingdom,creep,downpour,medium,1,0,0
+United Kingdom,debris_flow,rain,medium,2,0,
+United Kingdom,debris_flow,rain,small,1,,
+United Kingdom,landslide,construction,medium,1,0,0
+United Kingdom,landslide,continuous_rain,large,3,0,0
+United Kingdom,landslide,continuous_rain,medium,2,0,0
+United Kingdom,landslide,continuous_rain,small,1,0,0
+United Kingdom,landslide,continuous_rain,unknown,1,0,0
+United Kingdom,landslide,downpour,medium,46,2,2
+United Kingdom,landslide,downpour,small,23,0,2
+United Kingdom,landslide,flooding,medium,3,0,0
+United Kingdom,landslide,freeze_thaw,small,1,0,0
+United Kingdom,landslide,no_apparent_trigger,medium,1,0,0
+United Kingdom,landslide,other,medium,1,0,0
+United Kingdom,landslide,other,small,1,0,
+United Kingdom,landslide,rain,large,1,,
+United Kingdom,landslide,rain,medium,29,2,0
+United Kingdom,landslide,rain,small,17,0,0
+United Kingdom,landslide,snowfall_snowmelt,small,1,0,0
+United Kingdom,landslide,snowfall_snowmelt,unknown,1,0,0
+United Kingdom,landslide,tropical_cyclone,medium,2,0,0
+United Kingdom,landslide,tropical_cyclone,small,1,0,
+United Kingdom,landslide,unknown,large,2,0,0
+United Kingdom,landslide,unknown,medium,26,0,0
+United Kingdom,landslide,unknown,small,17,0,0
+United Kingdom,landslide,unknown,unknown,1,0,0
+United Kingdom,mudslide,continuous_rain,large,1,0,0
+United Kingdom,mudslide,continuous_rain,unknown,1,0,0
+United Kingdom,mudslide,downpour,medium,4,0,0
+United Kingdom,mudslide,downpour,small,6,0,0
+United Kingdom,mudslide,flooding,medium,2,0,0
+United Kingdom,mudslide,flooding,small,1,,
+United Kingdom,mudslide,no_apparent_trigger,small,1,0,0
+United Kingdom,mudslide,rain,medium,3,,
+United Kingdom,mudslide,rain,small,1,0,0
+United Kingdom,other,rain,medium,1,0,0
+United Kingdom,other,unknown,small,2,0,0
+United Kingdom,riverbank_collapse,dam_embankment_collapse,medium,1,0,0
+United Kingdom,riverbank_collapse,unknown,medium,1,0,0
+United Kingdom,rock_fall,downpour,large,1,0,0
+United Kingdom,rock_fall,downpour,small,1,0,
+United Kingdom,rock_fall,no_apparent_trigger,medium,2,0,0
+United Kingdom,rock_fall,rain,small,1,0,0
+United Kingdom,rock_fall,unknown,medium,3,0,0
+United Kingdom,rock_fall,unknown,small,4,0,0
+United Kingdom,unknown,continuous_rain,medium,1,0,0
+United Kingdom,unknown,unknown,small,1,0,1
+United States,complex,continuous_rain,small,1,0,
+United States,complex,downpour,large,1,0,
+United States,complex,downpour,medium,11,0,
+United States,complex,downpour,small,24,0,
+United States,complex,freeze_thaw,large,1,0,0
+United States,complex,freeze_thaw,medium,2,0,
+United States,complex,rain,medium,8,0,
+United States,complex,rain,small,11,0,
+United States,complex,rain,very_large,1,3,0
+United States,complex,unknown,very_large,1,0,0
+United States,creep,continuous_rain,small,1,0,0
+United States,creep,downpour,medium,2,0,0
+United States,creep,snowfall_snowmelt,small,1,0,0
+United States,debris_flow,continuous_rain,large,1,0,0
+United States,debris_flow,downpour,large,3,0,0
+United States,debris_flow,downpour,medium,43,0,0
+United States,debris_flow,downpour,small,28,0,0
+United States,debris_flow,flooding,medium,1,0,0
+United States,debris_flow,flooding,small,1,0,0
+United States,debris_flow,freeze_thaw,small,2,0,0
+United States,debris_flow,rain,large,1,0,0
+United States,debris_flow,rain,medium,10,1,0
+United States,debris_flow,rain,small,10,0,0
+United States,debris_flow,snowfall_snowmelt,medium,2,0,0
+United States,debris_flow,unknown,medium,4,0,0
+United States,debris_flow,unknown,small,1,0,0
+United States,earth_flow,downpour,small,2,0,0
+United States,lahar,dam_embankment_collapse,medium,1,,
+United States,lahar,rain,medium,1,,
+United States,lahar,snowfall_snowmelt,large,1,0,0
+United States,landslide,construction,medium,1,0,0
+United States,landslide,construction,small,4,0,0
+United States,landslide,continuous_rain,large,1,0,
+United States,landslide,continuous_rain,medium,16,3,0
+United States,landslide,continuous_rain,small,31,1,0
+United States,landslide,continuous_rain,very_large,1,0,0
+United States,landslide,downpour,large,8,0,0
+United States,landslide,downpour,medium,175,2,1
+United States,landslide,downpour,small,186,0,2
+United States,landslide,downpour,unknown,4,0,0
+United States,landslide,earthquake,small,1,0,0
+United States,landslide,flooding,medium,3,0,0
+United States,landslide,flooding,small,5,3,0
+United States,landslide,freeze_thaw,medium,1,0,
+United States,landslide,freeze_thaw,small,1,0,0
+United States,landslide,mining,small,1,0,0
+United States,landslide,mining,very_large,1,0,
+United States,landslide,no_apparent_trigger,medium,3,0,0
+United States,landslide,no_apparent_trigger,small,1,0,0
+United States,landslide,other,medium,3,0,0
+United States,landslide,rain,large,4,0,0
+United States,landslide,rain,medium,133,4,2
+United States,landslide,rain,small,97,0,0
+United States,landslide,rain,very_large,1,3,
+United States,landslide,snowfall_snowmelt,large,2,0,0
+United States,landslide,snowfall_snowmelt,medium,2,0,0
+United States,landslide,snowfall_snowmelt,small,2,0,0
+United States,landslide,tropical_cyclone,medium,5,1,0
+United States,landslide,tropical_cyclone,small,3,0,0
+United States,landslide,unknown,large,7,0,0
+United States,landslide,unknown,medium,67,5,1
+United States,landslide,unknown,small,54,1,0
+United States,landslide,unknown,unknown,755,0,0
+United States,landslide,unknown,very_large,1,0,0
+United States,mudslide,construction,small,1,0,0
+United States,mudslide,continuous_rain,large,2,0,0
+United States,mudslide,continuous_rain,medium,16,0,0
+United States,mudslide,continuous_rain,small,23,0,0
+United States,mudslide,dam_embankment_collapse,medium,1,2,0
+United States,mudslide,downpour,large,8,43,8
+United States,mudslide,downpour,medium,262,2,5
+United States,mudslide,downpour,small,292,1,9
+United States,mudslide,downpour,unknown,1,0,0
+United States,mudslide,flooding,large,3,0,0
+United States,mudslide,flooding,medium,2,0,0
+United States,mudslide,flooding,small,3,0,0
+United States,mudslide,freeze_thaw,medium,1,0,
+United States,mudslide,freeze_thaw,small,1,0,
+United States,mudslide,other,large,1,0,0
+United States,mudslide,other,medium,1,0,0
+United States,mudslide,rain,large,2,0,0
+United States,mudslide,rain,medium,119,2,1
+United States,mudslide,rain,small,150,1,1
+United States,mudslide,snowfall_snowmelt,large,1,0,0
+United States,mudslide,snowfall_snowmelt,medium,8,0,0
+United States,mudslide,snowfall_snowmelt,small,2,0,0
+United States,mudslide,tropical_cyclone,medium,2,0,
+United States,mudslide,tropical_cyclone,small,3,0,
+United States,mudslide,unknown,large,3,0,0
+United States,mudslide,unknown,medium,28,3,0
+United States,mudslide,unknown,small,27,0,0
+United States,mudslide,unknown,unknown,1,0,0
+United States,other,continuous_rain,medium,1,0,0
+United States,other,downpour,medium,1,1,
+United States,other,downpour,small,2,0,0
+United States,other,mining,small,1,1,1
+United States,other,no_apparent_trigger,small,1,0,0
+United States,other,rain,medium,1,0,0
+United States,other,rain,small,5,0,0
+United States,other,unknown,medium,1,0,0
+United States,other,unknown,small,1,0,0
+United States,riverbank_collapse,flooding,small,1,0,0
+United States,riverbank_collapse,rain,medium,1,0,0
+United States,riverbank_collapse,rain,small,1,0,0
+United States,riverbank_collapse,unknown,small,1,0,0
+United States,rock_fall,construction,medium,1,0,0
+United States,rock_fall,construction,small,1,0,0
+United States,rock_fall,continuous_rain,small,4,0,0
+United States,rock_fall,continuous_rain,unknown,1,0,0
+United States,rock_fall,downpour,medium,15,0,0
+United States,rock_fall,downpour,small,28,0,0
+United States,rock_fall,earthquake,medium,2,0,0
+United States,rock_fall,flooding,medium,3,0,0
+United States,rock_fall,freeze_thaw,medium,7,2,0
+United States,rock_fall,freeze_thaw,small,2,0,0
+United States,rock_fall,mining,medium,1,1,0
+United States,rock_fall,no_apparent_trigger,medium,3,1,1
+United States,rock_fall,no_apparent_trigger,small,2,0,0
+United States,rock_fall,rain,medium,10,2,2
+United States,rock_fall,rain,small,26,0,2
+United States,rock_fall,snowfall_snowmelt,medium,3,0,1
+United States,rock_fall,snowfall_snowmelt,small,4,0,0
+United States,rock_fall,unknown,large,1,0,0
+United States,rock_fall,unknown,medium,53,3,3
+United States,rock_fall,unknown,small,68,2,6
+United States,rock_fall,unknown,unknown,1,0,0
+United States,snow_avalanche,other,medium,1,0,2
+United States,snow_avalanche,snowfall_snowmelt,large,1,0,0
+United States,snow_avalanche,unknown,large,1,2,2
+United States,snow_avalanche,unknown,medium,1,0,0
+United States,translational_slide,unknown,medium,1,0,0
+United States,translational_slide,unknown,small,1,0,0
+United States,unknown,downpour,medium,1,0,0
+United States,unknown,downpour,small,1,0,0
+United States,unknown,rain,medium,2,0,0
+United States,unknown,rain,unknown,1,0,0
+United States,unknown,unknown,medium,2,0,0
+United States,unknown,unknown,unknown,4,0,0
+Uzbekistan,landslide,unknown,medium,1,5,0
+Vanuatu,landslide,rain,medium,1,0,
+Vanuatu,landslide,tropical_cyclone,large,1,3,0
+Venezuela,landslide,downpour,medium,11,13,
+Venezuela,landslide,downpour,very_large,1,2,
+Venezuela,landslide,rain,medium,2,0,
+Venezuela,mudslide,downpour,medium,6,13,
+Venezuela,rock_fall,earthquake,small,1,1,1
+Vietnam,complex,downpour,medium,2,6,
+Vietnam,complex,rain,medium,1,,
+Vietnam,complex,tropical_cyclone,large,1,,
+Vietnam,complex,tropical_cyclone,medium,4,91,
+Vietnam,landslide,continuous_rain,large,1,9,1
+Vietnam,landslide,continuous_rain,medium,1,0,0
+Vietnam,landslide,downpour,large,5,19,
+Vietnam,landslide,downpour,medium,40,126,6
+Vietnam,landslide,downpour,very_large,2,3,
+Vietnam,landslide,flooding,medium,1,0,0
+Vietnam,landslide,mining,medium,1,0,0
+Vietnam,landslide,monsoon,medium,2,1,0
+Vietnam,landslide,rain,medium,14,40,0
+Vietnam,landslide,rain,very_large,5,,
+Vietnam,landslide,tropical_cyclone,large,3,13,
+Vietnam,landslide,tropical_cyclone,medium,9,27,12
+Vietnam,landslide,unknown,medium,5,4,1
+Vietnam,landslide,unknown,small,1,0,0
+Vietnam,mudslide,downpour,medium,1,0,
+Vietnam,mudslide,rain,large,1,3,
+Vietnam,mudslide,rain,medium,2,0,0
+Vietnam,mudslide,tropical_cyclone,medium,2,,
+Vietnam,mudslide,tropical_cyclone,small,1,13,
+Vietnam,riverbank_collapse,downpour,medium,3,0,0
+Vietnam,riverbank_collapse,downpour,small,1,0,0
+Vietnam,riverbank_collapse,rain,medium,1,0,0
+Vietnam,riverbank_collapse,unknown,medium,2,0,0
+Vietnam,rock_fall,downpour,medium,1,2,
+Vietnam,rock_fall,mining,large,1,18,
+Vietnam,rock_fall,rain,medium,2,,
+Yemen,landslide,downpour,large,2,14,
+Yemen,landslide,downpour,medium,2,20,24
+Yemen,landslide,rain,medium,1,,
+Yemen,rock_fall,downpour,medium,2,31,20
+Zambia,complex,downpour,medium,1,9,
